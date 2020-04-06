@@ -1,5 +1,4 @@
 var numero = prompt("Hola Bienvenido!! Escoge un Numero")
-var div
 
 function esdivisible (n, div){
   if(n % div == 0){
